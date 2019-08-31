@@ -64,7 +64,7 @@ session_start();
                 break;
             }
             // user 2 is for finance manager
-            // user 5 is for vehicle manager
+            //user 5 is for vehicle manager
 
         }
         else{
