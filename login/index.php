@@ -65,7 +65,7 @@ session_start();
             }
             // user 2 is for finance manager
             //user 5 is for vehicle manager
-            // user 7 is for stock manager
+            //user 7 is for stock manager
 
         }
         else{
