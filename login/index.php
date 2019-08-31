@@ -63,6 +63,8 @@ session_start();
                 header('Location: ../retailer/index.php');
                 break;
             }
+            // user 2 is for finance manager
+            // user 5 is for vehicle manager
 
         }
         else{
